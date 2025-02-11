@@ -1,4 +1,5 @@
 .env
 venv
 __pycache__
-artigos/*
+artigos_para_docling/
+artigos_para_llama/
