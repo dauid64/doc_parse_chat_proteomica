@@ -1,6 +1,6 @@
 # RAG Avançado Chat Proteômica
 
-Esse é o projeto é o responsável por alimentar o banco vetórial do [chat_proteomica](https://github.com/dauid64/chat_proteomica).
+Esse é o projeto responsável por alimentar o banco vetórial do [chat_proteomica](https://github.com/dauid64/chat_proteomica).
 
 ## Estrutura
 
