@@ -8,7 +8,7 @@ Esse é o projeto responsável por alimentar o banco vetórial do [chat_proteomi
 
     Nesta pasta fica os artigos coletado pelos pesquisadores do Laboratório de Proteômica, disponível no [drive](https://drive.google.com/drive/folders/1EhdFNfqo6X9Gi9jkbah8F7iEX39Ytg9L?usp=drive_link).
 
-    obs: nem todos os arquivos foram possíveis de ser convertidos e teve que ser retirado, porém grande quantidade foi possível como pode ver no arquivo `artigos_tratados_docling` com suas conversões em markdown.
+    obs: nem todos os arquivos foram possíveis de ser convertidos e alguns acabaram tendo que ser retirados, porém grande quantidade foi possívelW como pode ver no arquivo `artigos_tratados_docling`, onde se encontra os arquivos já convertidos para markdown.
 
 - 📄 converte_artigos.py
 
@@ -16,7 +16,7 @@ Esse é o projeto responsável por alimentar o banco vetórial do [chat_proteomi
 
 - 📄 geracao_embeddings.py
 
-    Neste arquivo é feito o split do texto dos documentos já convertidos para merkdown, gerar os embeddings utilizando o modelo da Open AI e armazena-los no banco vetorial Qdrant.
+    Neste arquivo é feito o split do texto dos documentos já convertidos para markdown, gerar os embeddings utilizando o modelo da Open AI e armazena-los no banco vetorial Qdrant.
 
 - 📂 legado
 
